@@ -10,7 +10,7 @@ public class MyFirstApp {
             	System.out.println("Число " + result + " является нечетным");
 		}
 	}
-		System.out.println("1 + 2 + 3 + 4 + 5 = " + result);
+		System.out.println("1 + 2 + 3 + 4 + 5 = 55ada" + result);
 
 	}
 }
